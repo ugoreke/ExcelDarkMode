@@ -21,7 +21,7 @@ Mac
    
    File>More Templates>Personal>Pin Dark Mode Workbook
 
-3. Use that Dark mode template to open a new blank sheet
+3. Use that dark mode template to open a new blank sheet
 
 # License
 
