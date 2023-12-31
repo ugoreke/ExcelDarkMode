@@ -17,6 +17,7 @@ Mac
    ```
 2. In Excel:
    File>Account>Office These settings>Choose Dark Gray or Black
+   
    File>More Templates>Personal>Pin Dark Mode Workbook
 
 # License
