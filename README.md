@@ -3,7 +3,7 @@ Dark template for MS Excel, easy on the eyes
 
 **_Won't work for existing workbooks_**
 
-![darktemplate](https://github.com/ugoreke/ExcelDarkMode/assets/62306373/acdf0ffa-c319-4499-8b4a-13abe8d40340)
+![darktemplate](https://github.com/ugoreke/ExcelDarkMode/assets/62306373/69c716fa-1368-49ab-93ff-92711f264637)
 
 # What to do
 
