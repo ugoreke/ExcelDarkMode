@@ -9,7 +9,7 @@ Dark template for MS Excel, easy on the eyes
 
 Windows
    ```bash
-   git clone https://github.com/ugoreke/ExcelDarkMode.git C:\Users\Replace_with_your_username\Documents\Custom Office Templates
+   git clone https://github.com/ugoreke/ExcelDarkMode.git "C:\Users\Replace_with_your_username\Documents\Custom Office Templates"
    ```
 Mac
    ```bash
