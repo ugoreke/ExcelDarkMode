@@ -1,6 +1,8 @@
 # ExcelDarkMode
 Dark template for MS Excel, easy on the eyes
 
+Won't work for existing workbooks.
+
 ![darktemplate](https://github.com/ugoreke/ExcelDarkMode/assets/62306373/2b9e2855-c1c3-434e-a18b-f423b90744d1)
 
 # What to do
@@ -17,11 +19,19 @@ Mac
 
 2. In Excel:
    
-   File>Account>Office Theme>Choose Dark Gray or Black
-   
-   File>More Templates>Personal>Pin Dark Mode Workbook
+File>Account>Office Theme>Choose Dark Gray or Black
 
-3. Use that dark mode template to open a new blank sheet
+3. Choose the template when starting a new book
+
+Windows
+   
+File>More Templates>Personal>Pin Dark Mode Workbook
+
+Mac
+
+New>Dark Mode Workbook
+
+5. Use that dark mode template to open a new blank sheet
 
 # License
 
