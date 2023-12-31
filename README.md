@@ -16,6 +16,7 @@ Mac
    git clone https://github.com/ugoreke/ExcelDarkMode.git ~/library/Group\ Containers/UBF8T346G9.Office/User Content/Templates
    ```
 2. In Excel:
+   
    File>Account>Office These settings>Choose Dark Gray or Black
    
    File>More Templates>Personal>Pin Dark Mode Workbook
