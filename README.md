@@ -21,6 +21,8 @@ Mac
    
    File>More Templates>Personal>Pin Dark Mode Workbook
 
+3. Use that Dark mode template to open a new blank sheet
+
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
