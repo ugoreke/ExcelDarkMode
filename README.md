@@ -5,16 +5,16 @@ Dark template for MS Excel, easy on the eyes
 
 # What to do
 
-1. Clone this repository to your local machine:
+1. Download Dark Mode Workbook.xltx to your custom templates folder
 
 Windows
-   ```bash
-   git clone https://github.com/ugoreke/ExcelDarkMode.git "C:\Users\Replace_with_your_username\Documents\Custom Office Templates"
-   ```
+
+"C:\Users\Replace_with_your_username\Documents\Custom Office Templates"
+
 Mac
-   ```bash
-   git clone https://github.com/ugoreke/ExcelDarkMode.git ~/library/Group\ Containers/UBF8T346G9.Office/User Content/Templates
-   ```
+
+ ~/library/Group\ Containers/UBF8T346G9.Office/User Content/Templates
+
 2. In Excel:
    
    File>Account>Office Theme>Choose Dark Gray or Black
